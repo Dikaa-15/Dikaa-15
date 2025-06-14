@@ -1,4 +1,4 @@
-👋Aspiring Web Developer from a Grade 11 RPL class, fueled by curiosity and a love for code! I enjoy developing dynamic web apps using PHP, Laravel, Node.js, React, and Express. Fluent in HTML, CSS, JavaScript, and Bootstrap, with a solid grasp of database management in MySQL and PostgreSQL. Always open to new challenges and collaborative projects!
+👋Aspiring Web Developer, fueled by curiosity and a love for code! I enjoy developing dynamic web apps using PHP, Laravel, Node.js, React, and Express. Fluent in HTML, CSS, JavaScript, and Bootstrap, with a solid grasp of database management in MySQL and PostgreSQL. Always open to new challenges and collaborative projects!
 
 You can reach me via Linkeidn or Email: dwiezy1509@gmail.com
 
